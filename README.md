@@ -58,7 +58,7 @@ Check out the live demo of the project [here](https://front-end-omega-virid.verc
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Ashukla011/NextHaven.git]
+   git clone https://github.com/Ashukla011/NextHaven.git
    ```
 
 2. Navigate to the project directory:
