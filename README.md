@@ -22,7 +22,7 @@ Welcome to the E-commerce Website Frontend repository. This project is a fully r
 
 Check out the live demo of the project [here](https://front-end-omega-virid.vercel.app/).
 
-- Frontend Deployed Link(Netlify): [https://front-end-omega-virid.vercel.app/](https://front-end-omega-virid.vercel.app/)
+- Frontend Deployed Link(vercel): [https://front-end-omega-virid.vercel.app/](https://front-end-omega-virid.vercel.app/)
 
 
 
@@ -58,7 +58,7 @@ Check out the live demo of the project [here](https://front-end-omega-virid.verc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ashukla011/NextHaven.git
+   git clone [https://github.com/Ashukla011/NextHaven.git](https://github.com/Ashukla011/NextHaven.git)
    ```
 
 2. Navigate to the project directory:
